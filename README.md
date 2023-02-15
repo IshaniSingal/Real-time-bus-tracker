@@ -1,4 +1,6 @@
 # Real-time-bus-tracker
+permalink: /index.html
+
 ## This page displays the location of buses on the Bus 1 Line of the MBTA. Bus 1 runs between Nubian and Harvard in Boston. 
 ## Map is centered and responsive.
 <img src="MBTA-Logo.jpg" width='300'/>
@@ -15,7 +17,7 @@
     
 # License
 ## MIT License
-Copyright © 2022 Michael Ross
+Copyright © 2023 John Williams
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -35,4 +37,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-permalink: /index.html
